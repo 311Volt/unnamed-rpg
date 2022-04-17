@@ -1,0 +1,15 @@
+Grass01=steps/grass/01.wav
+Grass02=steps/grass/02.wav
+Grass03=steps/grass/03.wav
+Grass04=steps/grass/04.wav
+Stone01=steps/stone/01.wav
+Stone02=steps/stone/02.wav
+Stone03=steps/stone/03.wav
+Stone04=steps/stone/04.wav
+Wood01=steps/wood/01.wav
+Wood02=steps/wood/02.wav
+Wood03=steps/wood/03.wav
+Wood04=steps/wood/04.wav
+MenuIntro=menu/intro.wav
+MenuLoop=menu/loop.wav
+MenuFadeout=menu/fadeout.wav 

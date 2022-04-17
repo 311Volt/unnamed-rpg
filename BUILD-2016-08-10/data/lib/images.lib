@@ -1,0 +1,11 @@
+Character=character.png
+CPLLogo=intro/cpl.png
+YellowArrow=arrow.png
+GUI_EditorBlock=gui/buttons/editor_block.png
+GUI_EditorBuilding=gui/buttons/editor_building.png
+GUI_EditorObject=gui/buttons/editor_object.png
+GUI_EditorDelete=gui/buttons/editor_delete.png
+GUI_EditorSave=gui/buttons/editor_save.png
+GUI_EditorLoad=gui/buttons/editor_load.png
+GUI_EditorResize=gui/buttons/editor_resize.png
+VignetteFilter=vignette.png 
